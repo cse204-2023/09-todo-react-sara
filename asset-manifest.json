@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-sara/static/css/main.073c9b0a.css",
+    "main.js": "/09-todo-react-sara/static/js/main.646aebcd.js",
+    "static/media/logo.svg": "/09-todo-react-sara/static/media/logo.cf1ad5ea55bdf7ea6e8c68b1ae6ee00b.svg",
+    "index.html": "/09-todo-react-sara/index.html",
+    "main.073c9b0a.css.map": "/09-todo-react-sara/static/css/main.073c9b0a.css.map",
+    "main.646aebcd.js.map": "/09-todo-react-sara/static/js/main.646aebcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.646aebcd.js"
+  ]
+}
