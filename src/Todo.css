@@ -1,0 +1,31 @@
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  
+  li.completed {
+    background-color: #ccc;
+  }
+  
+  button {
+    margin-left: 1rem;
+  }
+  
+  #todos li.completed {
+    text-decoration: line-through;
+  }
+  li input[type=checkbox]:checked + label {
+    text-decoration: line-through;
+    color: grey;
+  }
+  
+  li input[type=checkbox]:checked + label::before {
+    content: "\2714";
+    display: inline-block;
+    margin-right: 5px;
+  }
